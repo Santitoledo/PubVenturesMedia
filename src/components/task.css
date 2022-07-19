@@ -1,0 +1,36 @@
+#boxTask{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 30px;
+   
+    transition: all 300ms;
+    position: relative;
+   
+}
+
+.tasking{
+    
+    margin: 1% 0.5%;
+    width: 30%;
+    padding: 1%;
+    border-radius: 15px;
+    border-style:solid;
+    border-color:rgb(61, 61, 61);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: all 300ms;
+    position: relative;
+   
+}
+
+.tasking:hover{
+
+        transform: scale(1.05);
+    
+}
+
+.tasking h2{
+    text-align: center;
+}
+

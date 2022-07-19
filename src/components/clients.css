@@ -1,0 +1,23 @@
+#boxClients{
+    margin-top: 10%;
+    width: 50%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+  }
+
+  #title2{
+  
+    margin: 4%;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 2.5em;
+    
+  
+  }
+  #img2{
+    width: 60%;
+    margin: 4%;
+  }
+  
+  

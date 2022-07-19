@@ -1,0 +1,31 @@
+
+.contain{ 
+  background-image: url(../src/assets/img/fondo.jpg);
+  height: 100vh;
+
+}
+#box{
+  display: flex;
+  justify-content: center;
+}
+#boxtitle{
+  margin-top: 10%;
+  width: 50%;
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
+
+#title1{
+  
+  margin: 4%;
+  margin-block-start: 0;
+  margin-block-end: 0;
+  font-size: 2.5em;
+  
+
+}
+
+#boxtitle h3{
+  color: rgb(40, 138, 40);
+}

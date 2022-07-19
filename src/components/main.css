@@ -1,0 +1,33 @@
+.boxAbout{
+    width: 70%;
+    background-color: #333;
+    border-radius: 15px;
+    padding: 0.3%;
+    margin-top: 8%;
+    margin-bottom: 1%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.boxAbout:hover{
+    background-color: rgb(61, 61, 61);
+}
+#about{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    border-top: 3px solid rgb(61, 61, 61);
+}
+
+.boxAbout h2{
+    margin: 2%;
+    text-align: center;
+    color: rgb(40, 138, 40);
+}
+
+.boxUs{
+    width: 60%;
+    text-align: center;
+}
+
+
+
+
